@@ -1,7 +1,7 @@
 # Windows LDB Bypass
 
 ## Website
-The website has the most up-to-date info: [https://lockdownbrowser-bypass.netlify.app](https://lockdownbrowser-bypass.netlify.app)
+The website has the most up-to-date info including demo videos and vouches: [https://lockdownbrowser-bypass.netlify.app](https://lockdownbrowser-bypass.netlify.app)
 
 ## Features
 - **Undetected**: Works on all lockdown browsers.
