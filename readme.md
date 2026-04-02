@@ -1,19 +1,24 @@
 # Windows LDB Bypass
 
+## Website
+The website has the most up-to-date info: [https://lockdownbrowser-bypass.netlify.app](https://lockdownbrowser-bypass.netlify.app)
+
 ## Features
-- Undetected on all lockdown browsers
-- Support LockdownBrowser and LockdownBrowserOEM
-- Bypass Screen Recording (see first youtube video)
-- Quick Hotkeys
-- Save screenshot to paste into AI with **alt + Q**
-- Make window transparent or harder to see (see second youtube video)
-- Bring overlay Up with **ctrl + up** and Down with **ctrl + down**
-- Enable copy and paste
-- Bypass close blacklisted applications, prompts to close but doesn't actually close (Use Remote Desktop Software With a Friend for Answers)
+- **Undetected**: Works on all lockdown browsers.
+- **Support**: Compatible with LockdownBrowser and LockdownBrowserOEM.
+- **Bypass Screen Recording**: See the first YouTube video for a demonstration.
+- **Quick Hotkeys**: 
+  - `Alt + Q`: Save screenshot to paste into AI.
+  - `Ctrl + Up`: Bring overlay up.
+  - `Ctrl + Down`: Bring overlay down.
+- **Stealth Mode**: Make window transparent or harder to see (see the second YouTube video).
+- **Copy & Paste**: Enable copy and paste functionality within locked environments.
+- **Bypass Close Prompts**: Bypass attempts to close blacklisted applications; prompts may appear but do not actually close the process. 
+  - *Tip*: Use Remote Desktop Software with a friend for answers while bypassing.
 
 ## Demo Videos
-- **How to use this app + Demo:** [https://youtu.be/CHrcdC2RUC8](https://youtu.be/CHrcdC2RUC8)
-- **Make overlay more transparent:** [https://youtu.be/TTFMSszzWqM](https://youtu.be/TTFMSszzWqM)
+1. **[How to use this app + Demo](https://youtu.be/CHrcdC2RUC8)**
+2. **[Make overlay more transparent](https://youtu.be/TTFMSszzWqM)**
 
 ## Contact for Support or Questions
-Discord: tavern_12021
+- **Discord**: `tavern_12021`
